@@ -6,3 +6,6 @@
         path = linux
         url = git@github.com:kckoh/linux.git
 
+[submodule "python-cloud"]
+	path = python-cloud
+	url = git@github.com:kckoh/python-cloud.git
